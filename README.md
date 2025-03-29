@@ -72,5 +72,5 @@ An AI-powered assistant to help shop floor operators document and manage Standar
 
 ---
 
-## Folder Structure
+
 
